@@ -1,4 +1,5 @@
 **/*.jpg
+**/*.wav
 Convolutional_NN/MNIST/*
 Convolutional_NN/data/*
 Convolutional_NN/cifar/*
